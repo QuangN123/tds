@@ -1,9 +1,10 @@
 name: Create new strat file
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/15 17-23 * * *'
-    - cron: '*/15 0-7 * * *'
+    - cron: '*/10 17-23 * * *'
+    - cron: '*/10 0-7 * * *'
 
 jobs:
   create-strat:
