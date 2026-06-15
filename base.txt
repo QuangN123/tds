@@ -9,7 +9,7 @@ upgrade(9.1, 2.350, -3.8, 650)
 upgrade(9.1, 2.350, -3.8, 2400)
 upgrade(9.1, 2.350, -6.5, 2400)
 
-place(-0.1, 1.8, 0.7, "DJ Booth", 850)
+place(-0.1, 1.8, 1.8, "DJ Booth", 850)
 SetDjTrack(-0.1, 2.359, 1.8, "Green", 0)
 
 place(9.1, 1.0, -1.1, "Cowboy", 600)
